@@ -15,9 +15,9 @@
 ---
 
 ## 📊 GitHub Stats
-![Amrutha's GitHub Stats](https://github-readme-stats.vercel.app/api?username=YOURUSERNAME&show_icons=true&theme=radical)  
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=YOURUSERNAME&layout=compact&theme=radical)  
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=YOURUSERNAME&theme=radical)  
+![Amrutha's GitHub Stats](https://github-readme-stats.vercel.app/api?username=amrutha612&show_icons=true&theme=radical)  
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=amrutha612&layout=compact&theme=radical)  
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=amrutha612&theme=radical)  
 
 ---
 
