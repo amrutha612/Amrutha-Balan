@@ -7,10 +7,10 @@
 ---
 
 ## 🚀 Tech Stack
-- **Languages:** Python, Java, C  
+- **Languages:** Python, Java, C , ML , Flutter  
 - **Web:** HTML, CSS, JavaScript  
 - **Database:** MySQL, SQLite  
-- **Tools:** Git, GitHub, VS Code, Jupyter Notebook, Linux  
+- **Tools:** Git, GitHub, VS Code, Jupyter Notebook  
 
 ---
 
