@@ -1,37 +1,101 @@
-# Hi there 👋, I'm Amrutha
+# Hi there 👋, I'm Amrutha Balan
 
-🎓 MCA Student | 💻 Passionate about Software Engineering & Data Structures  
-🌱 Currently learning: Web Technologies, Networking, and ML basics  
-📌 Mini Project: Fingerprint-based Exam Hall Entry System  
+🎓 MCA Student | 💻 Software Developer | 🤖 AI/ML Enthusiast  
+🌱 Currently working as a Backend Developer Intern at Ai2Gi  
+🚀 Passionate about Web Development, Computer Vision, and AI-based Applications  
 
 ---
 
 ## 🚀 Tech Stack
-- **Languages:** Python, Java, C , ML , Flutter  
-- **Web:** HTML, CSS, JavaScript  
-- **Database:** MySQL, SQLite  
-- **Tools:** Git, GitHub, VS Code, Jupyter Notebook  
+
+### 💻 Programming Languages
+- Python
+- Java
+
+### 🌐 Web Technologies
+- HTML5
+- CSS3
+- JavaScript
+- Django
+- React
+
+### 🤖 AI/ML & Data Science
+- Machine Learning
+- Deep Learning (Basics)
+- Data Preprocessing
+- EDA & Data Visualization
+- OpenCV
+
+### 🗄️ Databases
+- MySQL
+- SQLite
+
+### 🛠️ Tools & Platforms
+- Git & GitHub
+- VS Code
+- Jupyter Notebook
+
+---
+
+## 📌 Featured Projects
+
+### 📝 examAIR – AI-Powered OMR Evaluation System
+AI-based OMR evaluation system using OpenCV and CNN for automated answer sheet analysis and prediction.
+
+### 🍽️ Smart Restaurant Recommendation System
+Developed an AI-powered recommendation system using a convolutional autoencoder for personalized food suggestions.
+
+### 🌧️ RainCheck – Rainfall Prediction Web App
+Built a rainfall prediction web application using React and Flask with real-time weather API integration.
+
+### 🔐 Fingerprint-Based Exam Hall Entry System
+Developed a secure biometric authentication system using React and Django for exam hall entry management.
+
+---
+
+## 💼 Experience
+
+### Backend Developer Intern – Ai2Gi
+- Developing backend APIs using Django
+- Working with databases and debugging
+- Contributing to real-world application development
 
 ---
 
 ## 📊 GitHub Stats
-![Amrutha's GitHub Stats](https://github-readme-stats.vercel.app/api?username=amrutha612&show_icons=true&theme=radical)  
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=amrutha612&layout=compact&theme=radical)  
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=amrutha612&theme=radical)  
+
+![Amrutha's GitHub Stats](https://github-readme-stats.vercel.app/api?username=amrutha612&show_icons=true&theme=radical)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=amrutha612&layout=compact&theme=radical)
+
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=amrutha612&theme=radical)
 
 ---
 
-## 🏆 Achievements & Goals
-- 🔹 Building strong fundamentals in **DSA & Software Engineering**  
-- 🔹 Exploring **open-source contributions**  
-- 🔹 Aim: To become a **Skilled Full-Stack Developer**  
+## 🏆 Achievements & Certifications
+
+- 🚀 NASA International Space Apps Challenge – Galactic Problem Solver Award
+- 🤖 Applied ML & Deep Learning Workshop – Kannur University
+- 📚 Machine Learning through Python – Central University of Kerala & ICFOSS
+- 🌐 Build with AI – Kerala Edition
+
+---
+
+## 🎯 Current Goals
+
+- Strengthening AI/ML and Computer Vision skills
+- Building real-world full-stack applications
+- Contributing to innovative software projects
+- Exploring open-source development
 
 ---
 
 ## 🔗 Connect With Me
-- 📫 Email: amruthabala18@gmail.com  
-- 🌐 LinkedIn: https://www.linkedin.com/in/amrutha-balan-5585aa200
+
+📫 Email: amruthabala18@gmail.com  
+💼 LinkedIn: https://www.linkedin.com/in/amrutha-balan-5585aa200  
+🌐 GitHub: https://github.com/amrutha612
 
 ---
 
-✨ *“Code is like humor. When you have to explain it, it’s bad.”*
+✨ *“Code. Learn. Build. Improve. Repeat.”*
