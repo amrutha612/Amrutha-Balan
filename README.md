@@ -66,11 +66,11 @@ Developed a secure biometric authentication system using React and Django for ex
 
 ## 📊 GitHub Stats
 
-![Amrutha's GitHub Stats](https://github-readme-stats.vercel.app/api?username=amrutha612&show_icons=true&theme=radical)
+![Stats](https://github-readme-stats.vercel.app/api?username=amrutha612&show_icons=true&theme=tokyonight)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=amrutha612&layout=compact&theme=radical)
+![Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=amrutha612&layout=compact&theme=tokyonight)
 
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=amrutha612&theme=radical)
+![Streak](https://streak-stats.demolab.com/?user=amrutha612&theme=tokyonight)
 
 ---
 
@@ -99,5 +99,7 @@ Developed a secure biometric authentication system using React and Django for ex
 🌐 GitHub: https://github.com/amrutha612
 
 ---
+
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)  ![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django)   ![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow)  ![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv)  ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql)
 
 ✨ *“Code. Learn. Build. Improve. Repeat.”*
