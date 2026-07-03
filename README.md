@@ -1,7 +1,9 @@
 # Hi there 👋, I'm Amrutha Balan
 
-🎓 MCA Student | 💻 Software Developer | 🤖 AI/ML Enthusiast  
-🌱 Currently working as a Backend Developer Intern at Ai2Gi  
+🎓 MCA Graduate | Python & Django Developer | AI/ML Enthusiast | Open to Work
+
+🌱 Completed six month internship at Ai2Gi as a Python Backend developer 
+
 🚀 Passionate about Web Development, Computer Vision, and AI-based Applications  
 
 ---
